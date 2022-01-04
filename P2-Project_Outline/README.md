@@ -13,6 +13,7 @@ a map plus a weather forecast for the chosen day. This app will also include aut
 
 Those are the easy parts.
 
+The following is for the future, and most likely well outside of the scope of this class:
 The challenge is that I want to be able to have 2 different users select days, golf courses, and time windows of a few hours. If the two users have overlapping
 choices the app should automatically email them with the pertinent information.
 
